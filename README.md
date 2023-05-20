@@ -1,6 +1,9 @@
 # 💫 About Me:
 Passionate and driven second-year B.Tech(IT) student specializing in web development with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. Currently seeking a challenging internship opportunity to further enhance my technical skills and gain real-world experience in the industry.<br><br>Throughout my academic journey, I have developed a strong foundation in front-end and back-end web development, with a focus on building dynamic and responsive applications. I have hands-on experience working on several projects, utilizing the MERN stack to create robust and scalable web solutions.<br><br>With a keen eye for detail and a strong problem-solving aptitude, I strive to deliver high-quality code that meets the needs of end-users. I am proficient in HTML, CSS, JavaScript, and have a solid understanding of databases, RESTful APIs, and version control systems.<br><br>Beyond technical skills, I am a proactive team player, capable of collaborating effectively in multidisciplinary projects. I possess excellent communication skills, enabling me to effectively convey complex ideas and work collaboratively with stakeholders.<br><br>I am eager to contribute my skills and knowledge to a dynamic and forward-thinking organization. If you have an internship opportunity in web development where I can apply my MERN stack expertise and continue my professional growth, please feel free to connect with me.
 
+## Profile Views
+[![](https://visitcount.itsvg.in/api?id=amitvishwakarma8881&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_vishwa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmitVishwakarma8881) 
@@ -19,6 +22,5 @@ Passionate and driven second-year B.Tech(IT) student specializing in web develop
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amitvishwakarma8881&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
